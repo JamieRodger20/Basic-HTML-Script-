@@ -1,0 +1,24 @@
+header {
+
+    text-align: center;
+    color:blue ;
+    padding: 10px;
+}
+
+
+article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #15151e;
+    padding: 20px;
+    Color: rgb(245, 0, 0);
+  }
+  
+  
+  footer {
+    background-color: Black;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
